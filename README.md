@@ -39,7 +39,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I contribute to open source projects, explore new technologies, solve problems on Data Structures and Algorithms. and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felicia-ebikon)
+- :mailbox:How to reach me: feliciaebikon@gmail.com [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felicia-ebikon)
 
 ---
 
